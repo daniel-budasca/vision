@@ -1,1 +1,1 @@
-The Vision app is intended to provide you a more accurate representation of you real position in the reality / world.
+The Vision app is intended to provide you a more accurate representation of your real position in the reality / world.
